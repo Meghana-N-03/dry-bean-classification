@@ -103,7 +103,7 @@ Decision Tree and Gaussian Naive Bayes were implemented without feature scaling.
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository:** [INSERT YOUR GITHUB REPOSITORY LINK HERE]
+**GitHub Repository:** [https://github.com/Meghana-N-03/dry-bean-classification]
 
 The repository contains:
 
@@ -174,7 +174,7 @@ An interactive web application was developed using Streamlit to demonstrate the 
 
 The application loads the previously trained models from saved model files and evaluates the uploaded test dataset without retraining the models.
 
-**Live Streamlit Application:** [INSERT YOUR DEPLOYED STREAMLIT APP LINK HERE]
+**Live Streamlit Application:** [https://dry-bean-classification-dcsytcd3bsqtdfmqzybyc2.streamlit.app/]
 
 ---
 
