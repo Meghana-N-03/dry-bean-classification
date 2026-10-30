@@ -113,7 +113,7 @@ The repository contains:
 - `test_data.csv` – Test dataset used for model evaluation.
 - `model_comparison.csv` – Comparison of evaluation results.
 - `models/` – Saved trained models and label encoder.
-- `notebooks/` – Jupyter Notebook containing the complete implementation and experiments.
+- `notebook/` – Jupyter Notebook containing the complete implementation and experiments.
 
 ## 4. Models Used and Evaluation Metrics
 
